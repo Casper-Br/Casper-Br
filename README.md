@@ -13,8 +13,8 @@ Screenshot Desktop Application
 
 ## I'm interested in ...
 
-Full stack software development
-Cross platform development
+Full stack software development,
+Cross platform development,
 iOS app development
 and anything software development related, currently early in my career and would like to try everything at least once.
 
